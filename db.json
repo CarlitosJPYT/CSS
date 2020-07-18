@@ -1,0 +1,25 @@
+{
+     "Singer" : [
+          {"Ruben Blades" : 1},
+          {"Hector Lavoe" : 2},
+          {"Joe Arroyo" : 3},
+          {"Wilie Colon" : 4},
+          {"Luis Felipe Gonzales" : 5}
+     ],
+     "Song" : [
+          {
+               "Pedro Navaja" : "1",
+               "Simon the Great Man" : "2",
+               "Decisions" : "1",
+               "Yesterday's newspaper" : "2",
+               "Disappearances" : "1",
+               "Juanito Alimaña" : "2",
+               "Love and control" : "1",
+               "the singer" : "2",
+               "The rebellion" : "3",
+               "Sad and empty" : "4",
+               "in Barranquilla I stay" : "3",
+               "London" : "5"
+          }
+     ]
+}

@@ -1,0 +1,193 @@
+/*---Documento---*/
+
+body{background: #000000;}
+
+/*---Encabezado---*/
+
+header{
+     background: #cccccc;
+     box-shadow: 0px 3px 5px;
+     float: left;
+     margin-bottom: 20px;
+     padding: 20px;
+     width: 100%;
+}
+
+/*---Titulo del Encabezado*/
+
+header h1{
+     background: #00ff00;
+     color: #ff0000;
+     cursor: pointer;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 26pt;
+     padding: 20px;
+     text-align: center;
+}
+
+/*---Lista de la Navegación---*/
+
+nav ul li{
+     float: left;
+     list-style: none;
+     padding: 10px;
+}
+nav li i{
+     color: #0000ff;
+     cursor: pointer;
+     float: left;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 22pt;
+}
+nav li i:hover{text-decoration: underline;}
+
+/*---Sección---*/
+
+#contenedor{
+     background: #fff;
+     border-radius: 5px;
+     float: left;
+     padding: 20px;
+     width: 940px;
+}
+#contenedor section{
+     background: #00ff00;
+     border-radius: 5px;
+     box-shadow: 0px 3px 5px;
+     float: left;
+     margin: 20px;
+     padding: 20px;
+     width: 450px;
+}
+
+/*---Titulo de la Sección*/
+
+section h1{
+     background: #0000ff;
+     color: #ff0000;
+     cursor: pointer;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 16pt;
+     text-align: center;
+}
+
+/*---Parrafo de la Sección---*/
+
+section p{
+     color: #000000;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 12pt;
+}
+
+/*--División---*/
+
+#header{
+     background: #ff0000;
+     border-radius: 5px;
+     box-shadow: 0px 3px 5px;
+     float: left;
+     margin: 20px;
+     padding: 20px;
+     width: 450px;
+}
+
+/*---Titulo de la División---*/
+
+#header h1{
+     background: #00ff00;
+     color: #0000ff;
+     cursor: pointer;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 16pt;
+     text-align: center;
+}
+
+/*--Contenido Extra---*/
+
+aside{
+     background: #00ff00;
+     border-radius: 5px;
+     box-shadow: 0px 3px 5px;
+     float: left;
+     margin: 20px;
+     padding: 20px;
+     width: 350px;
+}
+
+/*---Tabla---*/
+
+table{
+     border: 2px solid #000000;
+     border-collapse: collapse;
+}
+
+/*---Celda de la Tabla---*/
+
+table td{
+     border: 2px solid #000000;
+     padding: 20px;
+}
+
+/*---Subtitulo de la Tabla---*/
+
+td i{
+     color: #0000ff;
+     cursor: pointer;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 12pt;
+}
+td i:hover{text-decoration: underline;}
+
+/*---Parrafo de la Tabla---*/
+
+td p{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 10pt;
+}
+
+/*---Formulario---*/
+
+form{
+     background: #000000;
+     border: 2px;
+     border-radius: 5px;
+     box-shadow: 0px 3px 5px;
+     float: left;
+     margin: 20px;
+     padding: 20px;
+     width: 450px;
+}
+label{
+     display: block;
+     margin-bottom: 20px;
+}
+
+/*Subtitulo del Formulario---*/
+
+label i{
+     color: #0000ff;
+     cursor: pointer;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 12pt;
+}
+label i:hover{
+     text-decoration: underline;
+}
+
+/*---Imagen---*/
+
+img{
+     height: 350px;
+     margin: 20px;
+     width: 350px;
+}
+
+/*Titulo del Pie de Pagina*/
+
+footer h1{
+     color: #ccc;
+     cursor: pointer;
+     float: left;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 26pt;
+}

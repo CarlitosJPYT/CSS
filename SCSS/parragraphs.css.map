@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACK,MADC,CACD,CAAC,CAAA;EACI,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;EACf,UAAU,EAAE,MAAM;CACtB",
+    "sources": [
+        "parragraphs.scss"
+    ],
+    "names": [],
+    "file": "parragraphs.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACK,OADE,CACF,EAAE,CAAA;EACG,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO;EACf,UAAU,EAAE,MAAM;CACtB",
+    "sources": [
+        "subtitle.scss"
+    ],
+    "names": [],
+    "file": "subtitle.css"
+}
